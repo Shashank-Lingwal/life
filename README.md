@@ -2,8 +2,7 @@
 
 A frontend-only interactive story built from the three provided datasets: Spotify listening history (2013-2024), a personal expense diary (2015-2018) and card transactions (2022-2024).
 
-**Live demo:** _add your deployed URL here_
-
+Live demo: https://shashank-lingwal.github.io/life/
 ## What it does
 - **Six chapters** split the life into eras, each with computed stats (plays, hours, top artist, spent, saved, earned).
 - **The roll** charts plays per month, with diary spending (blue dots) and card receipts (pink squares).
